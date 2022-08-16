@@ -1,0 +1,229 @@
+.limit {
+    width: 1000px;
+    height: 700px;
+    border: 3px solid black;
+    background-image: url("https://i.pinimg.com/564x/db/15/55/db1555931e8e6b374d488bdcf3d1369b.jpg");
+    background-size: cover;
+    margin: 0 auto;
+    font-weight: 600;
+    -webkit-user-select: none;
+    /* Safari */
+    -moz-user-select: none;
+    /* Firefox */
+    -ms-user-select: none;
+    /* IE10+/Edge */
+    user-select: none;
+    /* Standard */
+
+}
+
+.questionDiv {
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    left: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 60px 15px 0px 15px;
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    border-radius: 25px;
+    opacity: 1;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+.portraitAndBubble1 {
+    width: 800px;
+    margin: 15% 0% 0% 5%;
+    position: absolute;
+    overflow: hidden;
+    opacity: 1;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+.portrait1 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("https://i.pinimg.com/736x/68/24/b8/6824b874fe29a500ca7570afa232d807.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: 30%;
+    border: 2px solid black;
+    float: left;
+    ;
+}
+
+.portraitAndBubble2 {
+    width: 800px;
+    margin: 15% 0% 0% 8%;
+    position: absolute;
+    overflow: hidden;
+    opacity: 1;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+.portrait2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-image: url("https://i.pinimg.com/564x/a5/b5/4a/a5b54a912badeea1a93825751682db10.jpg");
+    background-size: 95%;
+    border: 2px solid black;
+    float: right;
+}
+
+.score {
+    background-color: #fff;
+    color: rgb(25, 180, 8);
+    text-align: center;
+    font-weight: 600;
+    font-size: 40px;
+    position: absolute;
+    margin: 5% 0px 0px 25px;
+    opacity: 1;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+table {
+    left: 50%;
+    width: 700px;
+    margin: 50px auto 100px auto;
+    bottom: 0px;
+    border-collapse: separate;
+    border-spacing: 25px;
+    table-layout: fixed;
+    opacity: 1;
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+table tr td {
+    border: 2px solid black;
+    padding: 40px 30px 40px 30px;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 25px;
+    background-color: white;
+}
+
+table tr td:hover {
+    cursor: pointer;
+}
+
+.wrongAnswer {
+    background-color: red;
+    text-decoration: line-through;
+}
+
+.wrongAnswer:hover {
+    background-color: red !important;
+}
+
+.rightAnswer {
+    background-color: green;
+}
+
+.rightAnswer:before {
+    content: "\2713";
+    padding-right: 10px;
+    font-size: 15px;
+}
+
+.rightAnswer:hover {
+    background-color: green !important;
+}
+
+.hoverClass:hover {
+    background-color: darkgray;
+}
+
+.countdown {
+    color: crimson;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 48%;
+    bottom: 64%;
+    font-size: 100px;
+}
+
+.box3 {
+    width: 300px;
+    margin: 75px auto 50px 180px;
+    border-radius: 15px;
+    background: red;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-family: arial;
+    position: relative;
+}
+
+.box4 {
+    width: 300px;
+    margin: 75px 180px 50px auto;
+    border-radius: 15px;
+    background: green;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-weight: 900;
+    font-family: arial;
+    position: relative;
+}
+
+.sb14:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 15px solid transparent;
+    border-right: 15px solid red;
+    border-top: 15px solid red;
+    border-bottom: 15px solid transparent;
+    left: -16px;
+    top: 0px;
+}
+
+.sb13:before {
+    content: "";
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    border-left: 15px solid green;
+    border-right: 15px solid transparent;
+    border-top: 15px solid green;
+    border-bottom: 15px solid transparent;
+    right: -16px;
+    top: 0px;
+}
+
+.image {
+    border: 2px solid black;
+    width: 500px;
+    height: 220px;
+    left: 510px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 25px;
+    position: absolute;
+    background-image: url("https://www.numerama.com/content/uploads/2018/05/rm-1.png");
+    background-size: cover;
+}
+
+body.img {
+    @media screen {
+        max-width: :1200px;
+        min-width: 800px:;
+        ;
+
+    }
+}
