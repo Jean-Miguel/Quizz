@@ -76,12 +76,12 @@ const data = {
       "",
   },
   8: {
-    question: " ? ",
-    choice1: "",
-    choice2: "",
-    choice3: "",
-    choice4: "",
-    answer: "",
+    question: " quel touche du clavier permet d'ouvrir le menu démarrer ? ",
+    choice1: "CTRL",
+    choice2: "SHIFT",
+    choice3: "WINDOWS",
+    choice4: "ALT GR",
+    answer: "WINDOWS",
     image:
       "",
   },
