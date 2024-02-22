@@ -44,14 +44,14 @@ const data = {
   },
 
   5: {
-    question: "Quel est le nom de ce ninja légendaire ?",
-    choice1: "Orochimaru",
-    choice2: "Tsunade",
-    choice3: "Jiraya",
-    choice4: "Minato",
-    answer: "Jiraya",
+    question: "Quelle proposition n'est pas un composant de l'ordinateur ?",
+    choice1: "la Ram ",
+    choice2: "le processeur ",
+    choice3: "le clavier",
+    choice4: "la carte vidéo",
+    answer: "le clavier",
     image:
-      "https://i.pinimg.com/564x/d8/18/1c/d8181ca48c49200023dc71e1530d8db7.jpg",
+      "",
   },
 
   6: {
