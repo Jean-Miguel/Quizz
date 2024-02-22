@@ -86,45 +86,26 @@ const data = {
       "",
   },
   9: {
-    question: "?",
-    choice1: "",
-    choice2: "",
-    choice3: "",
-    choice4: "",
-    answer: "",
+    question: " tout les composants sont reliés ?",
+    choice1: "au disque dur ",
+    choice2: "à la carte vidéo",
+    choice3: "à la carte mère",
+    choice4: "au processeur",
+    answer: "à la carte mère",
     image:
       "",
   },
   10: {
-    question: "",
-    choice1: "",
-    choice2: "",
-    choice3: "",
-    choice4: "",
-    answer: "",
+    question: "Suis-je un bon formateur ?",
+    choice1: "oui",
+    choice2: "non ",
+    choice3: "je sais pas",
+    choice4: "Demande à Mickael",
+    answer: "oui",
     image:
       "",
   },
-  11: {
-    question: "",
-    choice1: "",
-    choice2: "",
-    choice3: "",
-    choice4: "",
-    answer: "",
-    image:
-      "",
-  },
-  12: {
-    question:
-      "",
-    choice1: "",
-    choice2: "",
-    choice3: "",
-    choice4: "",
-    answer: "",
-    image: "",
-  },
+  
 };
 const questionPassed = [];
 const questionDiv = document.getElementById("questionDiv");
