@@ -1,46 +1,46 @@
 const data = {
   1: {
-    question: "quel est le nom de ce composant?",
+    question: "quel élément représente la mémoire vive ?",
     choice1: "Le Processeur !!!",
     choice2: "un disque dur !!!",
     choice3: "La carte mère!!!",
     choice4: "La RAM !!!",
     answer: "La RAM !!!",
     image:
-      "https://cdn.pixabay.com/fr/photos/m%C3%A9moire-ram-ordinateur-8141642.jpg",
+      "",
   },
 
   2: {
-    question: "Qui est ce ninja ?",
-    choice1: "Rock Lee",
-    choice2: "Sasuke Utchiwa",
-    choice3: "Kakashi Hatake",
-    choice4: "Néji Hyuga",
-    answer: "Sasuke Utchiwa",
+    question: "Où sont stockées les infotmations ?",
+    choice1: "dans le processeur ",
+    choice2: "dans le disque dur",
+    choice3: "sur l'écran",
+    choice4: "dans la carte vidéo",
+    answer: "dans le disque dur",
     image:
-      "https://cdn.pixabay.com/photo/2022/07/13/05/25/sasuke-7318576_1280.png",
+      "",
   },
 
   3: {
-    question: "Qu'apprend Naruto au Mont-Myôboku ?",
-    choice1: "Le Taïjutsu",
-    choice2: "Le genjutsu",
-    choice3: "Le Senjutsu",
-    choice4: "Le Ninjutsu",
-    answer: "Le Senjutsu",
+    question: "laquelle de ces proposition est fausse ?",
+    choice1: "le processeur est le coeur ",
+    choice2: "le processeur est le cerveau",
+    choice3: "le processeurr est le bras",
+    choice4: "le processeur est la jambe",
+    answer: "le processeur est le cerveau",
     image:
-      "https://cdn.pixabay.com/photo/2022/06/21/07/04/naruto-7275259_1280.png",
+      "",
   },
 
   4: {
-    question: "Naruto, Sakura, Sasuke Forment avec Kakashi ",
-    choice1: "L'équipe 3",
-    choice2: "L'équipe 2",
-    choice3: "l'équipe 1",
-    choice4: "L'équipe 7",
-    answer: "L'équipe 7",
+    question: "qu'est-ce qu'un OS ? ",
+    choice1: "un organe des vertèbres",
+    choice2: "un système d'exploitation",
+    choice3: "un problème",
+    choice4: "un jouet",
+    answer: "un système d'exploitation",
     image:
-      "https://i.pinimg.com/736x/15/40/4c/15404cd25401af6f8cb642d095639357.jpg",
+      "",
   },
 
   5: {
