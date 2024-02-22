@@ -71,7 +71,7 @@ const data = {
     choice2: "au début de la barre des tâches",
     choice3: "dans un dossier caché",
     choice4: "dans les widgets ",
-    answer: "au début de la barre des tâche",
+    answer: "au début de la barre des tâches",
     image:
       "",
   },
