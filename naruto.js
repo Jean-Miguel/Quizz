@@ -7,7 +7,7 @@ const data = {
     choice4: "La RAM !!!",
     answer: "La RAM !!!",
     image:
-      "https://cdn.pixabay.com/fr/photos/m%C3%A9moire-ram-ordinateur-8141642.png",
+      "https://cdn.pixabay.com/fr/photos/m%C3%A9moire-ram-ordinateur-8141642.jpg",
   },
 
   2: {
