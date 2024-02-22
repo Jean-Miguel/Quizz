@@ -22,7 +22,7 @@ const data = {
   },
 
   3: {
-    question: "laquelle de ces proposition est fausse ?",
+    question: "laquelle de ces proposition est vraie ?",
     choice1: "le processeur est le coeur ",
     choice2: "le processeur est le cerveau",
     choice3: "le processeurr est le bras",
