@@ -153,7 +153,7 @@ function randomQuestion() {
   } else if (questionPassed.length === Object.keys(data).length) {
     deleteEvent();
     removeAllClass();
-    questionDiv.innerHTML = "Bravo !";
+    questionDiv.innerHTML = "c'est terminé !";
     questionDiv.style.height = "50px";
     questionDiv.style.width = "150px";
     questionDiv.style.marginTop = "255px";
