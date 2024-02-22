@@ -1,13 +1,13 @@
 const data = {
   1: {
-    question: "Le sharingan est l'héritage de quelle famille ?",
-    choice1: "UZUMAKI !!!",
-    choice2: "HARUNO !!!",
-    choice3: "LEE !!!",
-    choice4: "UTCHIWA !!!",
-    answer: "UTCHIWA !!!",
+    question: "quel est le nom de ce composant?",
+    choice1: "Le Processeur !!!",
+    choice2: "un disque dur !!!",
+    choice3: "La carte mère!!!",
+    choice4: "La RAM !!!",
+    answer: "La RAM !!!",
     image:
-      "https://cdn.pixabay.com/photo/2020/12/11/21/14/naruto-5823848_1280.png",
+      "https://pixabay.com/fr/photos/m%C3%A9moire-ram-ordinateur-8141642/",
   },
 
   2: {
