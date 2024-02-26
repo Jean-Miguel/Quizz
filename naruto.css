@@ -226,19 +226,5 @@ body.img {
         ;
 
     }
-    .footer {
-  @include transition( background .5s );
-  width: 500px;
-  padding: 10px 20px;
-  margin: 0 -20px;
-  background: #94e28e;
-  &.sticky { 
-    position: fixed; 
-    bottom: 0;
-    left: 0;
-    right: 0;
-    width: 100%;
-    margin: 0;
-    background: yellow;
-  }
+    
 }
