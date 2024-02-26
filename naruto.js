@@ -18,7 +18,7 @@ const data = {
     choice4: "dans la carte vidéo",
     answer: "dans le disque dur",
     image:
-      "",
+      "https://images.pexels.com/photos/33278/disc-reader-reading-arm-hard-drive.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   },
 
   3: {
