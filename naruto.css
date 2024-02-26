@@ -84,7 +84,7 @@ p {
 }
 
 .score {
-    border-radius: 10% 20% 30% 75%;
+    border-radius: 25% 25% 25% 25%;
     background-color: #fff;
     color: rgb(25, 180, 8);
     text-align: center;
